@@ -16,7 +16,7 @@ Foram configurados os caminhos do:
 - Git
 - Git Bash Portable
 
-Também configurei as variáveis `MAVEN_HOME` e `PATH`.
+Também configurei as variáveis `MAVEN_HOME` e o `PATH`.
 
 ## Parte 2.4 - Configuração do Git e Maven
 
